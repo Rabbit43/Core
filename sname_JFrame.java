@@ -64,3 +64,7 @@ f.setVisible(true);
 }
 }
 dwd
+
+sname_JFrame f=new sname_JFrame();
+f.setSize(400,350);
+f.setVisible(true);
