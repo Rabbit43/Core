@@ -1,5 +1,5 @@
 
-charge server url : 
+main server url : 
 
 import java.awt.*;
 import javax.swing.*;
