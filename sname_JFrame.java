@@ -1,5 +1,5 @@
 
-main server url : 
+navy server url : 
 
 import java.awt.*;
 import javax.swing.*;
